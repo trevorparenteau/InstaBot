@@ -4,7 +4,7 @@ Instagram bot that grows your account - follows, likes, and comments on posts wi
 Helpful if your page has a specific niche
 - Simply input your username, password, tags, and comment when prompted in terminal
 - When entering tags, do not use the # symbol. Just input the name of the tag.
-   - For example, instead of writing #memes, just write memes 
+   - For example, instead of writing #sports, just write sports 
 
 Happy growing :)
 
